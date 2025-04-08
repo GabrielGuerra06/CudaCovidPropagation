@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\UNIVERSIDAD\\8-Semestre\\PA en Paralelo\\Periodo 2\\Project2\\CudaCovidPropagation\\CudaRuntime1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BF52B-52D4-474F-AABF-9F6CDFB50113}|CudaRuntime1\\CudaRuntime1.vcxproj|C:\\Users\\gabri\\OneDrive\\Documentos\\UNIVERSIDAD\\8-Semestre\\PA en Paralelo\\Periodo 2\\Project2\\CudaCovidPropagation\\CudaRuntime1\\CudaRuntime1\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E70BF52B-52D4-474F-AABF-9F6CDFB50113}|CudaRuntime1\\CudaRuntime1.vcxproj|solutionrelative:CudaRuntime1\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\UNIVERSIDAD\\8-Semestre\\PA en Paralelo\\Periodo 2\\Project2\\CudaCovidPropagation\\CudaRuntime1\\CudaRuntime1\\kernel.cu",
+              "RelativeDocumentMoniker": "CudaRuntime1\\kernel.cu",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\UNIVERSIDAD\\8-Semestre\\PA en Paralelo\\Periodo 2\\Project2\\CudaCovidPropagation\\CudaRuntime1\\CudaRuntime1\\kernel.cu",
+              "RelativeToolTip": "CudaRuntime1\\kernel.cu",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAiwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T01:35:30.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
