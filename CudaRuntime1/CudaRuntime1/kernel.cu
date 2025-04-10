@@ -105,7 +105,7 @@ void initialize_Agents(Agent* agents) {
         agents[i].x = rand_number(0.0f, sim_area_x, seed++);
         agents[i].y = rand_number(0.0f, sim_area_y, seed++);
     }
-        agents[0].status = INFECTED;
+    for (int i = 0; i < N_AGENTS / 100; i++) {
 
 }
 
